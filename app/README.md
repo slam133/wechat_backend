@@ -6,7 +6,7 @@ This is a FastAPI backend for a WeChat Mini Program. It includes user registrati
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-repo/wechat_backend.git
+    git clone https://github.com/slam133/wechat_backend.git
     ```
 
 2. Navigate to the project directory:
